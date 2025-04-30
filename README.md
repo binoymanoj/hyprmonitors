@@ -10,6 +10,7 @@ A simple command line utility to turn **on/off monitors** in **Hyprland** window
 
 ## 🧰 Features
 
+- Turn on/off (or) enable/disable a monitor
 - Supports multiple monitors
 - Interactive selection of monitors
 - Clean CLI usage with help menu
@@ -28,6 +29,16 @@ hyprmonitor off
 ### ✅ Turn on a monitor:
 ```bash
 hyprmonitor on
+```
+
+### ✅ Disable a monitor:
+```bash
+hyprmonitor disable
+```
+
+### ✅ Enable a monitor:
+```bash
+hyprmonitor enable
 ```
 
 ### 📖 Help:
@@ -68,6 +79,16 @@ Available monitors:
 Enter the number of the monitor to turn off: 1
 Monitor 'HDMI-A-1' turned off.
 ```
+
+```bash
+$ hyprmonitor disable
+
+Available monitors:
+[0] HDMI-A-2
+[1] eDP-1
+Enter the number of the monitor to disable: 1
+ok
+Monitor 'eDP-1' has been disabled.
 
 ---
 
