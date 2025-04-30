@@ -1,7 +1,6 @@
 # hyprmonitor
 
-[![Shell](https://img.shields.io/badge/shell-bash-blue?logo=gnu-bash)](https://www.gnu.org/software/bash/)
-[![License](https://img.shields.io/github/license/binoymanoj/hyprmonitor)](./LICENSE)
+<!-- [![License](https://img.shields.io/github/license/binoymanoj/hyprmonitor)](./LICENSE) -->
 [![Hyprland](https://img.shields.io/badge/Compatible%20with-Hyprland-44cc11?logo=linux)](https://github.com/hyprwm/Hyprland)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)]()
 
