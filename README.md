@@ -13,7 +13,7 @@ A simple command line utility to turn **on/off monitors** in **Hyprland** window
 - Supports multiple monitors
 - Interactive selection of monitors
 - Clean CLI usage with help menu
-- Depends only on `hyprctl` (no need for `fzf`)
+- Depends only on `hyprctl` 
 - Lightweight and minimal
 
 ---
