@@ -1,6 +1,6 @@
-# hyprmonitor
+# hyprmonitors
 
-<!-- [![License](https://img.shields.io/github/license/binoymanoj/hyprmonitor)](./LICENSE) -->
+[![License](https://img.shields.io/github/license/binoymanoj/hyprmonitors)](./LICENSE)
 [![Hyprland](https://img.shields.io/badge/Compatible%20with-Hyprland-44cc11?logo=linux)](https://github.com/hyprwm/Hyprland)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)]()
 
@@ -23,27 +23,27 @@ A simple command line utility to turn **on/off monitors** in **Hyprland** window
 
 ### ✅ Turn off a monitor:
 ```bash
-hyprmonitor off
+hyprmonitors off
 ```
 
 ### ✅ Turn on a monitor:
 ```bash
-hyprmonitor on
+hyprmonitors on
 ```
 
 ### ✅ Disable a monitor:
 ```bash
-hyprmonitor disable
+hyprmonitors disable
 ```
 
 ### ✅ Enable a monitor:
 ```bash
-hyprmonitor enable
+hyprmonitors enable
 ```
 
 ### 📖 Help:
 ```bash
-hyprmonitor -h
+hyprmonitors -h
 ```
 
 ---
@@ -71,7 +71,7 @@ chmod +x hyprmonitors.sh
 ## 🖥️ Example
 
 ```bash
-$ hyprmonitor off
+$ hyprmonitors off
 
 Available monitors:
 [0] eDP-1
@@ -81,7 +81,7 @@ Monitor 'HDMI-A-1' turned off.
 ```
 
 ```bash
-$ hyprmonitor disable
+$ hyprmonitors disable
 
 Available monitors:
 [0] HDMI-A-2
