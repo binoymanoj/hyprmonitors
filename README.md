@@ -89,6 +89,7 @@ Available monitors:
 Enter the number of the monitor to disable: 1
 ok
 Monitor 'eDP-1' has been disabled.
+```
 
 ---
 
